@@ -19,6 +19,8 @@ To run the backend, you will need Docker and Node.js version 18 or higher.
     ```
     npm run migrate
     ```
+4. Create .env file in root directory and paste this
+    ```JWT_SECRET=aqwjrlkqjkjklmklqwjrpj2po1j23kmlknmqlkwmklnqklwelkqmjwe```    
 4. Finally, start the server using the command
     ```
     npm run start:dev
